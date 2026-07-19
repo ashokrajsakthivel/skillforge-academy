@@ -1,0 +1,34 @@
+[
+  {
+    "name": "kumar",
+    "email": "kumar132@gmail.com",
+    "phone": "9876543900",
+    "course": "Data Analytics",
+    "message": "welcome"
+  },
+  {
+    "name": "banu",
+    "email": "sakthibanu@gmail.com",
+    "phone": "9788465600",
+    "course": "Data Science",
+    "message": "how long your inten program"
+  },
+  {
+    "id": 1784378254387,
+    "name": "santhiya",
+    "email": "santhiya21@gmail.com",
+    "phone": "7604958697",
+    "course": "Python Programming",
+    "message": "onboard",
+    "createdAt": "2026-07-18T12:37:34.387Z"
+  },
+  {
+    "id": 1784445913186,
+    "name": "santhiya",
+    "email": "santhiya21@gmail.com",
+    "phone": "7604958697",
+    "course": "Data Science",
+    "message": "learning",
+    "createdAt": "2026-07-19T07:25:13.186Z"
+  }
+]
